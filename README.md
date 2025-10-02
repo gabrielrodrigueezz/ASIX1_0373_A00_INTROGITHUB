@@ -32,6 +32,7 @@ vuuyvuyovuybuyfutvuyuyvutyfvuuuuuuuuuuuuuuuvjbhbbbbbbbbbbbbbbbbbbbbbbbbbbbbbhilb
 
 | Jugador | Equipo | Nombre |
 |----------:|:----------|:---------:|
-| 32 | Lakers | Magic Johnson |
-| 23 | Bulls | Michael Jordan | 
-| 33 | Real Madrid | Carvajal |
+| 24 | Español | Dolan |
+| 7 | Al-Nassar | Cristiano Ronaldo| 
+| 8 | Español | Edu expósito |
+
