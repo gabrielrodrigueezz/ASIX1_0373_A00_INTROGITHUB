@@ -30,6 +30,8 @@ vuuyvuyovuybuyfutvuyuyvutyfvuuuuuuuuuuuuuuuvjbhbbbbbbbbbbbbbbbbbbbbbbbbbbbbbhilb
 
 ![alt text](./foto%20rcde.jpg) 
 
-
-
-
+| Jugador | | Equipo | | Nombre |
+|----------:|:----------|:---------:|
+| 32 | Laker:s | Magic Johnson |
+| 23 | Bulls | Michael Jordan | 
+| 33 | Real Madrid | Carvajal |
